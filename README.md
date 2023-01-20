@@ -8,4 +8,4 @@ Without training processes facilitated with large image datasets, recovering a s
 
 ## Reference
 
-The paper is based on ["Deep Image Prior"](https://arxiv.org/pdf/1711.10925.pdf), and our code adds modifications to the ["DIP github"](https://github.com/DmitryUlyanov/deep-image-prior)
+The paper is based on ["Deep Image Prior"](https://arxiv.org/pdf/1711.10925.pdf), and our code adds modifications to the [DIP github](https://github.com/DmitryUlyanov/deep-image-prior)
