@@ -5,3 +5,7 @@ This repository contains the PyTorch implementation of the paper ["Guiding Deep 
 ## Abstract
 
 Without training processes facilitated with large image datasets, recovering a standalone noisy image can be challenging. In this project, we plan to investigate the effect of combining traditional rule-based recovery algorithms with Deep Image Prior, a recent advancement seen in neural networks image denoising, forming a new denoising pipeline. We prove that the combined method outperforms the individual results for a diverse set of images. Additionally, we study the early stopping point mechanism under the Deep Image Prior framework. We cannot observe a clear correlation between the stopping point and the intrinsic content frequency of images, and factors that may affect the image restoration speed are yet to be discussed. 
+
+## Reference
+
+The paper is based on ["Deep Image Prior"](https://arxiv.org/pdf/1711.10925.pdf), and our code adds modifications to the ["DIP github"](https://github.com/DmitryUlyanov/deep-image-prior)
